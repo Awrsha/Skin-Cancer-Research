@@ -41,9 +41,10 @@ The dataset used in this project is the Skin Cancer dataset, obtained from [Kagg
 - Continuously monitor and update the model to improve its accuracy and generalization.
 
 ## Contributors
-- [Amie Mohammad Parvizi](https://github.com/awrsha)
-- [Mohammad Hossein Hashemi](https://github.com/MHosseinHashemi)
-- [Hossein Karimi](https://github.com/)
+* Alphabetically:
+  - [Amie Mohammad Parvizi](https://github.com/awrsha)
+  - [Hossein Karimi](https://github.com/)
+  - [Mohammad Hossein Hashemi](https://github.com/MHosseinHashemi)
 
 ## License
 This project is licensed under the [License](https://github.com/MHosseinHashemi/Skin_Cancer#Apache-2.0-1-ov-file).
