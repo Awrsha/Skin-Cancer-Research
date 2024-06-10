@@ -1,4 +1,10 @@
-# Skin Cancer Detection using Deep Learning
+<h2 align="center">
+  <br>
+  <a href="https://github.com/mrl-hsl"><img src="https://github.com/Awrsha/MRL-HSL-Humanoid-Robot-Projects/assets/89135083/be030efa-3400-432b-9e76-376f071daadf" alt="Melanoma" width="400"></a>
+  <br>
+  <b><h4 align="center">.:: Skin Cancer Detection using Deep Learning ::.</h4></b>
+  <br>
+</h2>
 
 ## Overview
 This project aims to develop a deep learning model for the detection of skin cancer from dermoscopic images. The model utilizes convolutional neural networks (CNNs), specifically the ResNet50 architecture, to classify images into two classes: benign and malignant.
