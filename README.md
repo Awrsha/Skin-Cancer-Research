@@ -31,9 +31,8 @@ The dataset used in this project is the Skin Cancer dataset, obtained from [Kagg
 ## Results
 - The final model achieved an accuracy of 74% on the test set.
 - Precision: 0.76
-- Recall: 0.71
+- Recall (Sensitivity): 0.71
 - Specificity: 0.75
-- Sensitivity: 0.73
 
 ## Future Work
 - Implement techniques such as SMOTE and data augmentation to improve model performance.
