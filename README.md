@@ -29,10 +29,11 @@ The dataset used in this project is the Skin Cancer dataset, obtained from [Kagg
 5. **Testing**: Test the final model on unseen data.
 
 ## Results
-- The final model achieved an accuracy of 74% on the test set.
-- Precision: 0.76
-- Recall (Sensitivity): 0.71
-- Specificity: 0.75
+<h2 align="center">
+  <img width="802" alt="Plot" src="https://github.com/MHosseinHashemi/Skin_Cancer/assets/90381570/7b2d7f30-763a-4ce7-a8d2-4a5d5fa00a37">
+</h2>
+
+
 
 ## Future Work
 - Implement techniques such as SMOTE and data augmentation to improve model performance.
