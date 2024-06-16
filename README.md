@@ -31,6 +31,9 @@ The dataset used in this project is the Skin Cancer dataset, obtained from [Kagg
 ## Results
 <h2 align="center">
   <img width="802" alt="Plot" src="https://github.com/MHosseinHashemi/Skin_Cancer/assets/90381570/7b2d7f30-763a-4ce7-a8d2-4a5d5fa00a37">
+  <br>
+  <br>
+  <img width="779" alt="plot 2" src="https://github.com/MHosseinHashemi/Skin_Cancer/assets/90381570/4c19e60c-6f67-4908-838d-55523fe8cdb1">
 </h2>
 
 
